@@ -61,6 +61,17 @@
     <string name="facebookP6">https://www.facebook.com/jeffalexander.mejia.9</string>
     <string name="twitterP6">https://twitter.com/</string>
     
+     <!-- PERSONA 7 -->
+    <string name="nombreP7">José Miguel Sauceda Baires</string>
+    <string name="descripcionP7">LOL</string>
+    <string name="edadP7">22</string>
+    <string name="carreraP7">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP7">Soltero</string>
+    <string name="telefonoP7">88906090</string>
+    <string name="emailP7">jbaires@ujcv.edu.hn</string>
+    <string name="facebookP7">https://www.facebook.com/JoseMSBaires</string>
+    <string name="twitterP7">https://twitter.com/JMiguel_SB</string>
+    
  <!-- PERSONA 8 -->
     <string name="nombreP8">Martha Haydé Benítez Gómez</string>
     <string name="descripcionP8">Eyes cannot see what your mind does not understand</string>
