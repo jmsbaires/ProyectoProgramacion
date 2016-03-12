@@ -118,6 +118,20 @@ public class Personas {
 
                 
         );
+         PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+                        R.string.descripcionP7,
+                        R.string.edadP7,
+                        R.string.carreraP7,
+                       // R.drawable.jeffalexander,
+                        R.string.estadocivilP7,
+                        R.string.telefonoP7,
+                        R.string.emailP7,
+                        R.string.facebookP7,
+                        R.string.twitterP7)
+
+                
+        );
+        
         PERSONAS_LIST.add(new Personas(R.string.nombreP8,
                         R.string.descripcionP8,
                         R.string.edadP8,
