@@ -118,11 +118,11 @@ public class Personas {
 
                 
         );
-         PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+         PERSONAS_LIST.add(new Personas(R.string.nombreP7,
                         R.string.descripcionP7,
                         R.string.edadP7,
                         R.string.carreraP7,
-                       // R.drawable.jeffalexander,
+                        R.drawable.miguelsauceda,
                         R.string.estadocivilP7,
                         R.string.telefonoP7,
                         R.string.emailP7,
