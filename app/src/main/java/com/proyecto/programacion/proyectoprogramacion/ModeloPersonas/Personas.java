@@ -68,7 +68,7 @@ public class Personas {
                         R.string.descripcionP2,
                         R.string.edadP2,
                         R.string.carreraP2,
-                        R.drawable.donaldo canaca,
+                        R.drawable.donaldocanaca,
                         R.string.estadocivilP2,
                         R.string.telefonoP2,
                         R.string.emailP2,
